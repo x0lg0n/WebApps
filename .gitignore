@@ -1,0 +1,16 @@
+# Node / tooling
+node_modules/
+dist/
+.out/
+.temp/
+coverage/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Env
+.env

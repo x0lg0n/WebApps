@@ -1,0 +1,26 @@
+{
+  "name": "webapps-learning-journey",
+  "version": "1.0.0",
+  "description": "A structured playground for learning practical web development",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080",
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-development",
+    "learning",
+    "html",
+    "css",
+    "javascript",
+    "freecodecamp",
+    "scrimba",
+    "bootdev"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
