@@ -23,20 +23,24 @@ Follow these steps to get your development environment ready for web development
 ## Initial Setup
 
 1. **Clone or Download this Repository**
+
    ```bash
    git clone https://github.com/yourusername/WebApps.git
    cd WebApps
    ```
 
 2. **Install Development Dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start Development Server**
+
    ```bash
    npm run dev
    ```
+
    This will start a local server with live reload functionality.
 
 ## Alternative: Simple Setup (No Build Tools)
@@ -50,21 +54,25 @@ If you prefer a simpler approach without Node.js:
 ## Recommended Learning Order
 
 ### Week 1-2: HTML & CSS Fundamentals
+
 - Work through the `foundations/html/` examples
 - Complete the `01-landing-page` project
 - Practice with FreeCodeCamp's Responsive Web Design
 
 ### Week 3-4: JavaScript Fundamentals
+
 - Work through the `foundations/js/` examples
 - Complete the `02-todo-app` project
 - Practice with FreeCodeCamp's JavaScript Algorithms
 
 ### Week 5-6: APIs and Advanced JavaScript
+
 - Work through the `foundations/js/` advanced examples
 - Complete the `03-api-fetcher` project
 - Practice with Scrimba's JavaScript courses
 
 ### Week 7+: Full Applications
+
 - Complete the `04-weather-app` project
 - Start building your own projects
 - Explore Boot.dev for backend concepts

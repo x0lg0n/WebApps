@@ -1,14 +1,17 @@
 # Learning Progress Tracker
 
 ## Personal Information
-- **Name:** 
-- **Start Date:** 
-- **Goal:** 
+
+- **Name:**
+- **Start Date:**
+- **Goal:**
 
 ## Platform Learning Progress
 
 ### FreeCodeCamp
+
 #### Responsive Web Design Certification
+
 - [ ] Basic HTML and HTML5
 - [ ] Basic CSS
 - [ ] Applied Visual Design
@@ -24,6 +27,7 @@
   - [ ] Build a Personal Portfolio Webpage
 
 #### JavaScript Algorithms and Data Structures Certification
+
 - [ ] Basic JavaScript
 - [ ] ES6
 - [ ] Regular Expressions
@@ -41,6 +45,7 @@
   - [ ] Cash Register
 
 #### Front End Development Libraries Certification
+
 - [ ] Bootstrap
 - [ ] jQuery
 - [ ] Sass
@@ -54,7 +59,9 @@
   - [ ] Pomodoro Clock
 
 ### Scrimba
+
 #### Frontend Developer Path
+
 - [ ] HTML Fundamentals
 - [ ] CSS Fundamentals
 - [ ] Responsive Design
@@ -65,6 +72,7 @@
 - [ ] Project: Apple Clone
 
 #### React Course
+
 - [ ] React Fundamentals
 - [ ] React Hooks
 - [ ] React Router
@@ -72,7 +80,9 @@
 - [ ] Project: Expense Tracker
 
 ### Boot.dev
+
 #### Backend Engineering Career Path
+
 - [ ] Node.js Basics
 - [ ] Express.js
 - [ ] Databases
@@ -84,83 +94,95 @@
 ## Daily Learning Log
 
 ### Week 1
+
 #### Day 1
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 2
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 3
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 4
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 5
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 6
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:*
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 #### Day 7
-- **Date:** 
-- **Platform:** 
-- **Topics Covered:** 
-- **Time Spent:** 
-- **Projects/Exercises:** 
-- **Key Takeaways:** 
-- **Challenges:** 
+
+- **Date:**
+- **Platform:**
+- **Topics Covered:**
+- **Time Spent:**
+- **Projects/Exercises:**
+- **Key Takeaways:**
+- **Challenges:**
 
 ## Projects Completed
-| Project Name | Platform | Date Completed | Technologies Used | Link to Code | Notes |
-|--------------|----------|----------------|-------------------|--------------|-------|
-| Landing Page | FreeCodeCamp | | HTML, CSS | | First project |
-| | | | | | |
+
+| Project Name | Platform     | Date Completed | Technologies Used | Link to Code | Notes         |
+|--------------|--------------|----------------|-------------------|--------------|---------------|
+| Landing Page | FreeCodeCamp |                | HTML, CSS         |              | First project |
+|              |              |                |                   |              |               |
 
 ## Skills Acquired
+
 ### HTML
+
 - [ ] Semantic Elements
 - [ ] Forms and Inputs
 - [ ] Accessibility
 - [ ] SEO Basics
 
 ### CSS
+
 - [ ] Box Model
 - [ ] Flexbox
 - [ ] Grid
@@ -169,6 +191,7 @@
 - [ ] Preprocessors (Sass/Less)
 
 ### JavaScript
+
 - [ ] Variables and Data Types
 - [ ] Functions and Scope
 - [ ] DOM Manipulation
@@ -178,24 +201,29 @@
 - [ ] Modules
 
 ### Frontend Frameworks
+
 - [ ] React Components
 - [ ] State Management
 - [ ] Hooks
 - [ ] Routing
 
 ### Backend
+
 - [ ] REST APIs
 - [ ] Authentication
 - [ ] Database Integration
 - [ ] Deployment
 
 ## Goals for Next Week
-- [ ] 
-- [ ] 
-- [ ] 
+
+- [ ]
+- [ ]
+- [ ]
 
 ## Overall Progress
-- **Days Learning:** 
-- **Projects Completed:** 
-- **Certifications in Progress:** 
-- **Next Milestone:** 
+
+- **Days Learning:**
+- **Projects Completed:**
+- **Certifications in Progress:**
+- **Next Milestone:**
+- **Reflection:**
